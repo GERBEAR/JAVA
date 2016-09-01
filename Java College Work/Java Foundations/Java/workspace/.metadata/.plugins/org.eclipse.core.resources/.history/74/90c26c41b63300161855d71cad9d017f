@@ -1,0 +1,19 @@
+//Ask a user to input two number. The first number will be multiplied by itself as many times as the second number.
+//If I enter 10 and the 2,
+//it will return the value of 10 x 10
+
+package Loopchallenges;
+import java.util.Scanner;
+
+public class loopchallanges {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in); // declaring our scanner
+		
+		
+	
+
+	}
+
+}

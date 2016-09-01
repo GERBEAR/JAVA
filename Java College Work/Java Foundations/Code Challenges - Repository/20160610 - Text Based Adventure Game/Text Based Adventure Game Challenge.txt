@@ -1,0 +1,23 @@
+The Challenge:
+
+Your challenge is to design a text based adventure game. 
+First you will ask the user to enter their character name,
+next you will ask them to choose from a list of 
+characters.(paladin/warlock/mage/hunter/warrior) etc.etc.
+Each class has different health values.
+
+Throughout the adventure you will present the user with
+different decisions. For example :
+"You have woken up in a dark dungeon, you see a shimmer
+of a light shining from a small window to your left, and
+what looks like a door to the right."
+"Do you:
+A: Walk to the window"
+B: Walk to the door"
+C: Stay where you are"
+
+Then if they walk to the window you can say they find some fresh
+fruit which they can reach from the window so +10 health.
+However if they stay where they are, they could get bitten by a rat
+meaning -20 health. Keep giving decision until they die, or survive.
+

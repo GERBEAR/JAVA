@@ -1,0 +1,17 @@
+The Challenge!
+
+Create a program called GameTimeCalc.
+This program will ask a user to input
+their gamertag/username followed by their
+favourite game. After getting these two 
+pieces of information you then ask the 
+user to input how many hours a year they
+play the game.
+
+Then calculate how many hours per week
+and per day that works out to. Print out
+the information to the user cleanly.
+
+If you're dnoe - try to upgrade your program to use double 
+instead of int, for a more accurate representation of the times.
+This way we can have 1.5hrs instead of rounding 1.

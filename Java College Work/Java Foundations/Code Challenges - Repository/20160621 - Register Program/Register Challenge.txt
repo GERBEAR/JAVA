@@ -1,0 +1,25 @@
+Teams:
+
+Tomas / Gordon - Team Who's Tomas
+Eric / Jason - Team Jeric
+Adam / Emanuel - Team Spaghetti
+Franklin / Paddy - Team paddyfrank
+Jamie / Neil / Yomi - Team NYJ
+Josh / Gerard / Craig - Team Stumped
+
+Challenge:
+
+Name registering program.
+
+You will ask the user to input the number of names
+ they want to register. 
+Then based on the number of names the user has chosen
+to enter, you will ask them to enter that number of names
+1 by 1. 
+
+You will then break into a menu where
+the user will have 3 options.
+1) View the names that are registered
+2) Edit one of the names on the list by choosing which one to change
+3) Exit the program
+

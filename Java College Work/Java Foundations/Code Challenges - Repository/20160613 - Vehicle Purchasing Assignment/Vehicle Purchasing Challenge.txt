@@ -1,0 +1,9 @@
+A few of you approached me today and asked if it was possible for me to give you some assignments or challenges to work on at home, so first challenge/assignment is as follows:
+
+Ask a user to input the amount of money they have available for purchasing a new vehicle. Then ask the user whether or not they prefer sports cars or family cars or motorbikes. Depending on their input display a customized list of vehicles to them, within their price range. Your program should display a variety of vehicles between 5,000euros and 50,000euros.
+
+Don't spend too long researching cars and bikes and stuff, it's more about the functionality so start small and work from there.
+
+It's a relatively difficult one to figure out in terms of what we've done so far - but it's doable with the knowledge that you guys have!
+
+You do not have to complete this challenge, however, we will demo those who complete it and take a look at it in class. 

@@ -1,0 +1,27 @@
+package com.ojca.Gerard.whileloopexample;
+import java.util.Scanner;
+
+public class Whileloop { 
+	public static void main(String [] args){
+	
+	Scanner scan = new Scanner(System.in); // declaring scanner
+	
+	System.out.println("Enter A Number");
+	
+	int num = scan.nextInt();
+	int count =0;
+	
+	while(num!=1){
+		
+		System.out.println(num);
+		count ++;
+		num = num /2;
+	}//end while
+	
+	System.out.println("Count is " + count);
+		
+	
+	
+	 
+	}// end main
+}// end class

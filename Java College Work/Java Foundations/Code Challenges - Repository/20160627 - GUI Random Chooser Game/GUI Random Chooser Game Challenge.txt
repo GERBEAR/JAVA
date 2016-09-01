@@ -1,0 +1,25 @@
+Teams:
+Adam / Christina
+Eric / Yomi
+Tomas / Jason
+Jamie / Emanuel
+Josh / Franklin
+
+Challenge:
+Create a GUI program which will have 3 TextFields
+and one button.
+
+You will also have an Array of char containing
+a bunch of values Example : {'A', '7', '1', 'B', 'C'};
+
+The button will be located below the 3 TextFields
+and when pressed it will populate the 3 Fields
+with random values from the Array. If the values
+match the pattern you want it to 
+for example '7' '7' '7' would be the jackpot. 
+You can make a pop-up window or a label tell the
+user that they have won. 
+
+You can add in different values for the different matches.
+
+Warning: Think about the design before coding.

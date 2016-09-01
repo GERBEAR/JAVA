@@ -1,0 +1,28 @@
+//For Loop for this challenge 
+//Ask the user to enter their name,
+//then ask the user to enter how many times they want their name printed.
+//Print the users name that many times.
+
+
+package com.ocja.Gerard.LoopBeginnerChallenges;
+import java.util.Scanner;
+
+public class BeginnerLoop2 {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in); // declaring our scanner
+		
+		
+		
+		System.out.println(" Enter Your Name: ");
+		String userName = scan.nextLine();
+		System.out.println(" How Many Times Would You Like Your Name To Be Printed?.");
+		String userNum = scan.nextLine();
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,16 @@
+Create a Contact class which stores the state of a Contact.
+Name, Number, etc.
+Create an AddressBook class which has a main method
+
+Create a menu within the AddressBook class, allowing the
+user to add new contacts, or view existing contacts.
+
+Create an ArrayList as static variable within your AddressBook
+at class level, not witin a method. This will allow you to access
+it from everywhere within your AddressBook class
+Create a method to create a Contact object, add that
+object to your List of contacts.
+
+Create a method to view the existing contacts.
+
+Make sure your menu does all of the above.

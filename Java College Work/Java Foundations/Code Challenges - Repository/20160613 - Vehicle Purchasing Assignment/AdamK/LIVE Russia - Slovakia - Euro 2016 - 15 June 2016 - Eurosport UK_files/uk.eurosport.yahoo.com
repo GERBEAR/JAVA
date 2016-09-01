@@ -1,0 +1,1 @@
+PARSELY.pInit({"apikey":"uk.eurosport.yahoo.com","settings":{"debug":false,"widget":false,"tracker":true},"customizations":null,"track_ip_addresses":false,"bundle":"/code/ptrack-v0.5.0-engaged-time.js","track_third_party_cookies":false,"uuid":"60d24da0-c228-441c-a42a-9b34dcc3e2e1","network_uuid":null,"apikey_uuid":"60d24da0-c228-441c-a42a-9b34dcc3e2e1"});
